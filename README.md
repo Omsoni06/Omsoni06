@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsoni06&label=Profile%20views&color=0e75b6&style=flat" alt="omsoni06" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **NEXT.JS || Full Stack Development**
 
 - 📝 I regularly write articles on [https://us24updates.com/](https://us24updates.com/)
 
 - 💬 Ask me about **JavaScript, React.js, Node.js,MongoDB**
 
 - 📫 How to reach me **omsoni774600@gmail.com**
+
+- - 📫 Portfolio **[omsoni774600@gmail.com](https://omsoni06.github.io/personal-portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
