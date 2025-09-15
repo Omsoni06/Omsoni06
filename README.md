@@ -45,7 +45,7 @@ A modern, responsive landing page for a local gym in Barapathher.
 - Professional gym showcase
 - Contact and membership information
 
-**[Live Demo](#) | [GitHub Repo](#)**
+**[Live Demo](https://fitness-factory-gym-5bkp.vercel.app/) | [GitHub Repo](#)**
 
 ---
 
@@ -60,21 +60,9 @@ A comprehensive photo upload and sharing web application with QR code functional
 - User-friendly photo browsing interface
 - Static file serving through Express routes
 
-**[Live Demo](#) | [GitHub Repo](#)**
+**[Live Demo](https://marrymoments-frontend.onrender.com/) | [GitHub Repo](#)**
 
 ---
-
-### 📱 Social Media Growth Tool
-A MERN stack application for social media analytics and growth tracking.
-
-**Tech Stack:** Next.js, Express.js, MongoDB, React, Node.js, shadcn/ui  
-**Features:**
-- Indiansmm API integration
-- Followers and engagement tracking
-- Real-time analytics dashboard
-- Modern UI with shadcn components
-
-**[Live Demo](#) | [GitHub Repo](#)**
 
 ## 🛠️ Development Approach
 
