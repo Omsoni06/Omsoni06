@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm OM SONI
 
 **Full Stack Web Developer** passionate about creating modern, scalable web applications using the MERN stack and Next.js.
 
