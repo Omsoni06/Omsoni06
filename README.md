@@ -1,26 +1,111 @@
-<h1 align="center">Hi 👋, I'm Om soni</h1>
-<h3 align="center">"Passionate Full Stack Developer 🚀 | Turning Concepts into Code | Front-end Wizardry ✨ Back-end Sorcery 🪄 | Creating Digital Magic with Every Line of Code 💻 | Let's Build the Future Together!"</h3>
+# 👋 Hi, I'm [Your Name]
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omsoni06&label=Profile%20views&color=0e75b6&style=flat" alt="omsoni06" /> </p>
+**Full Stack Web Developer** passionate about creating modern, scalable web applications using the MERN stack and Next.js.
 
-- 🌱 I’m currently learning **NEXT.JS || Full Stack Development**
+## 🎓 Education
 
-- 📝 I regularly write articles on [https://us24updates.com/](https://us24updates.com/)
+**Master of Computer Applications (MCA)**  
+*Mahakaushal University, Jabalpur* | **2025**
 
-- 💬 Ask me about **JavaScript, React.js, Node.js,MongoDB**
+**Bachelor of Computer Applications (BCA)**  
+*Makhanlal Chaturvedi University, Bhopal* | **2023**
 
-- 📫 How to reach me **omsoni774600@gmail.com**
+## 💻 Tech Stack
 
-- - 📫 Portfolio **[omsoni774600@gmail.com](https://omsoni06.github.io/personal-portfolio/)**
+### Frontend
+- **React.js** - Component-based UI development
+- **Next.js** (App Router) - Full-stack React framework
+- **JavaScript** - Core programming language
+- **Tailwind CSS** - Utility-first CSS framework
+- **shadcn/ui** - Modern component library
+- **Radix UI** - Low-level UI primitives
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omsoni06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omsoni06" height="30" width="40" /></a>
-<a href="https://instagram.com/om__5911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="om__5911" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omsonii06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omsonii06" height="30" width="40" /></a>
-</p>
+### Backend
+- **Node.js** - Server-side JavaScript runtime
+- **Express.js** - Web application framework
+- **MongoDB** - NoSQL database
+- **Multer** - File upload handling
+- **Cloudinary** - Cloud-based image management
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+### Tools & Technologies
+- **Git & GitHub** - Version control
+- **VS Code** - Development environment
+- **npm** - Package management
+- **Vercel** - Deployment platform
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omsoni06&show_icons=true&locale=en&layout=compact" alt="omsoni06" /></p>
+## 🚀 Featured Projects
+
+### 🏋️ Fitness Factory Gym Website
+A modern, responsive landing page for a local gym in Barapathher.
+
+**Tech Stack:** Next.js, React, Tailwind CSS, shadcn/ui, Radix UI  
+**Features:**
+- Fully responsive design
+- Modern animations and UI components
+- Professional gym showcase
+- Contact and membership information
+
+**[Live Demo](#) | [GitHub Repo](#)**
+
+---
+
+### 📸 Wedding Photo Sharing Platform
+A comprehensive photo upload and sharing web application with QR code functionality.
+
+**Tech Stack:** Next.js, Express.js, MongoDB, Multer, Cloudinary  
+**Features:**
+- QR code-based photo access for guests
+- Multiple photo upload functionality
+- Cloud-based image storage and processing
+- User-friendly photo browsing interface
+- Static file serving through Express routes
+
+**[Live Demo](#) | [GitHub Repo](#)**
+
+---
+
+### 📱 Social Media Growth Tool
+A MERN stack application for social media analytics and growth tracking.
+
+**Tech Stack:** Next.js, Express.js, MongoDB, React, Node.js, shadcn/ui  
+**Features:**
+- Indiansmm API integration
+- Followers and engagement tracking
+- Real-time analytics dashboard
+- Modern UI with shadcn components
+
+**[Live Demo](#) | [GitHub Repo](#)**
+
+## 🛠️ Development Approach
+
+- **Full-Stack Development:** Experienced in building complete web applications from frontend to backend
+- **Modern JavaScript:** Proficient in ES6+ features and modern development patterns
+- **Component-Based Architecture:** Building reusable, maintainable React components
+- **Responsive Design:** Creating mobile-first, cross-device compatible applications
+- **API Integration:** Working with third-party APIs and building custom REST APIs
+- **Database Management:** Designing and implementing MongoDB schemas
+- **Cloud Services:** Utilizing cloud platforms for file storage and deployment
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🎯 What I'm Currently Working On
+
+- Building production-ready MERN stack applications
+- Exploring advanced Next.js features and optimizations
+- Creating resume-worthy projects for job applications
+- Learning modern UI/UX design principles
+
+## 📫 Let's Connect
+
+- **Email:** [omsoni.dev@gmail.com]
+- **LinkedIn:** [[your-linkedin-profile](https://www.linkedin.com/in/omsoni06/)]
+- **GitHub:** [@Omsoni06]
+
+
+---
+
+⭐️ **Open to opportunities** in full-stack web development roles where I can contribute my skills in modern web technologies and continue growing as a developer.
